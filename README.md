@@ -88,3 +88,15 @@ Submission is only the following three things:
 - [ ] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
 - [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
 - [ ] The Chat/LLM used page link, with the complete chat history
+
+## Submission Checklist
+
+Submission is only the following three things:
+
+- [ ] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
+- [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
+- [ ] The Chat/LLM used page link, with the complete chat history
+
+### SE-GPT Conversation Link
+
+[Click here to open the SE-GPT Conversation](https://chatgpt.com/share/6abcbd6c-c628-83e8-9d5b-a10254657b8b)
